@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+/tmp/
+.gemini/
+build/
+dist/
+node_modules/
